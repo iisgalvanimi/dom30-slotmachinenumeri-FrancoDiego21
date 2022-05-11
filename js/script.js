@@ -26,7 +26,7 @@ function gioca() {
             mess.innerText = "Hai Vinto, Complimenti"
             clearInterval(inter)
         } else {
-            mess.innerText = "Hai Perso, SPIAZEEEEEE"
+            mess.innerText = "Hai Perso, SPIAZEEEEEEEE"
             clearInterval(inter)
         }
 
